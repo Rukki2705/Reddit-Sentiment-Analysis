@@ -13,7 +13,7 @@ KAFKA_BOOTSTRAP_SERVERS = 'localhost:9092'
 # MySQL settings
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'yedazala'
+MYSQL_PASSWORD = ''
 MYSQL_DATABASE = 'reddit_sentiment'
 
 # Initialize Kafka Consumer
