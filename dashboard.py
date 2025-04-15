@@ -11,7 +11,7 @@ st.set_page_config(page_title="Reddit Sentiment Dashboard", layout="wide")
 # 🔧 MySQL Connection Settings
 MYSQL_HOST = 'localhost'
 MYSQL_USER = 'root'  # change if needed
-MYSQL_PASSWORD = 'yedazala'  # change to your actual password
+MYSQL_PASSWORD = ''  # change to your actual password
 MYSQL_DATABASE = 'reddit_sentiment'
 
 # ────────────────────────────────────────
