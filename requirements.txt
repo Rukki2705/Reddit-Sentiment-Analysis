@@ -1,0 +1,6 @@
+praw 
+kafka-python 
+vaderSentiment 
+mysql-connector-python 
+streamlit 
+pandas
