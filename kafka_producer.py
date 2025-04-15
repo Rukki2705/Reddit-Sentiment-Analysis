@@ -7,9 +7,9 @@ from datetime import datetime
 from kafka import KafkaProducer
 
 # Reddit API credentials
-REDDIT_CLIENT_ID = 'FP95WJXPIAmtkNkxDxRxrw'
-REDDIT_CLIENT_SECRET = 'LnLuhXyVs-vKrf5Xdvy4wHLCMe4I6Q'
-REDDIT_USER_AGENT = 'East_Employee_8969'
+REDDIT_CLIENT_ID = ''
+REDDIT_CLIENT_SECRET = ''
+REDDIT_USER_AGENT = ''
 
 # Kafka settings
 KAFKA_TOPIC = 'reddit-comments'
